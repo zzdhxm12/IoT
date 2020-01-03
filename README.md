@@ -42,4 +42,5 @@
  
  
  ## Demo
- <iframe width="560" height="315" src="https://www.youtube.com/embed/MT5tCM7lF9w?controls=0&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+ 
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/MT5tCM7lF9w)
